@@ -22,7 +22,7 @@ Something about me to start:
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jadiel.mfc/)](https://instagram.com/jadiel.mfc)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Elaprendiz23)](https://twitter.com/Elaprendiz23)
 
-<h2 align="center">Languages :man_technologist:</h2>
+<h2 align="center">Languages👨‍💻</h2>
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit)</p>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
@@ -33,7 +33,7 @@ Something about me to start:
 
 
 
-<h2 align="center">Tools :man_technologist:</h2>
+<h2 align="center">Tools🔨</h2>
 
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
