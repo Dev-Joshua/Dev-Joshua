@@ -9,8 +9,9 @@ Something about me to start:
 - 🤔 Looking for help with JavaScript...
 - 💬 Ask me about HTML, CSS and JavaScript...
 - 📫 How to contact me: 
-                        ### Email: joshua_dup@hotmail.com
-                        ### Cel: 3194971444
+   <ul>Email: joshua_dup@hotmail.com</ul>
+   <ul>Cel: 3194971444</ul>
+                    
 - 😄 Pronouns: Joshua
 - ⚡ Fun fact: Fan of adventure, traveling and discovering new experiences. 🌎🏞
 
