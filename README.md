@@ -14,15 +14,14 @@ Something about me to start:
 - 😄 Pronouns: Joshua
 - ⚡ Fun fact: Fan of adventure, traveling and discovering new experiences. 🌎🏞
 
-
+<!--
 <h2 align="center">You can reach me at :alien:</h2>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandup0323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joshua/)
+-->
 
-
-<h2 align="center">Languages👨‍💻</h2>
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit)</p>
+<h3>Languages👨‍💻</h3>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
@@ -31,14 +30,14 @@ Something about me to start:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
 
 
-
-<h2 align="center">Tools🔨</h2>
+<h3>Tools🔨</h3>
 
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
 
+<h4>Tools that I use on a daily basis, or that I've used or worked (either much or a bit)</h4>
 <!--
 **Dev-Joshua/Dev-Joshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
