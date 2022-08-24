@@ -17,10 +17,9 @@ Something about me to start:
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-<p align="center">
-  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandup0323@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joshua/)
-</p>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandup0323@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joshua/)
+
 
 <h2 align="center">Languages :man_technologist:</h2>
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit)</p>
