@@ -18,43 +18,39 @@ Something about me to start:
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-joshua/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Joshua Daniel LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="e" height="30" width="30">
-  </a>
+  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit)</p>
 <p align="center">
   <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="l" />
   </a>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
 <h4 align="center">Top langs :tongue:</h4>
+<p align="center">
+  ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <!--
 **Dev-Joshua/Dev-Joshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
