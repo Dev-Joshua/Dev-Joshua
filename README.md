@@ -19,8 +19,7 @@ Something about me to start:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandup0323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joshua/)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jadiel.mfc/)](https://instagram.com/jadiel.mfc)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Elaprendiz23)](https://twitter.com/Elaprendiz23)
+
 
 <h2 align="center">Languages👨‍💻</h2>
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit)</p>
