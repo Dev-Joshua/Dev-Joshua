@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Something about me to start:
 
 - 🔭 I'm currently studying programming at the Technological University of Pereira...
 - 🌱 I'm currently learning web development at Platzi...
