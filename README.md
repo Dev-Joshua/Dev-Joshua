@@ -44,4 +44,4 @@
 + ![WhatSapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
   + +57 319 497 144
 + ![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
- + joshua_dup@hotmail.com
+  + joshua_dup@hotmail.com
