@@ -4,7 +4,7 @@ I am a passionate Frontend Developer with experience in creating attractive and 
 My main focus is to use technologies like HTML, CSS and JavaScript to build stunning interfaces with the help of frameworks like Angular or React.
 
 - 🦾 I'm currently studying a Technologist in Software Analysis and Development.
-- ⛏ I’m currently learning backend technologies
+- ⛏ I would like to learn about backend development
 - 🎇 I am looking for the opportunity to apply my knowledge and put my skills as a programmer into practice.
 - 🏞 I love adventure, traveling and discovering new places, connecting with nature and discovering new experiences. 
 
