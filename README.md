@@ -37,7 +37,6 @@ My main focus is to use technologies like HTML, CSS and JavaScript to build stun
 			<a><img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" width="80px"></a>
 			<br/>
 			<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80px"></a>
-			<a><img src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" width="80px"></a>
 		    </div>
 	  </td>
     </tr>
