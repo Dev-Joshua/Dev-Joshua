@@ -27,19 +27,19 @@ My main focus is to use technologies like HTML, CSS and JavaScript to build stun
           <a><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="80px"></a>
 	  <a><img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="80px"></a>
          <a><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="80px"></a>
-          
         </div>
       </td>
       <td style="width: 50%;">
 	    <h3>Design</h3>
 		<div style="width: 100%; display: flex; ">
-			<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="50px"></a>
+			<a><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="80px"></a>
+			<a><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" width="80px"></a>
 		    </div>
 		<h3>Other languages</h3>
 		<div style="width: 100%; display: flex; gap: 5px;">
 			<a><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="80px"></a>
 			<br/>
-			<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80px"></a>
+			<a><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="80px"></a>
 		    </div>
 	  </td>
     </tr>
