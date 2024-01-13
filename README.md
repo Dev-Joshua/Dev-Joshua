@@ -23,7 +23,8 @@ My main focus is to use technologies like HTML, CSS and JavaScript to build stun
 	  <a><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="80px"></a>
           <a><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="80px"></a>
           <a><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="80px"></a>
-          <a><img src="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md" width="80px"></a>
+          <a><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="80px"></a>
+	  <a><img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="80px"></a>
           <a><img src="https://user-images.githubusercontent.com/900523/101620109-0e5e1f00-3a0c-11eb-8c40-b1d9a8bb3c4c.png" width="80px"></a>
         </div>
       </td>
