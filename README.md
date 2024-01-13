@@ -17,13 +17,13 @@ My main focus is to use technologies like HTML, CSS and JavaScript to build stun
       <td style="width: 50%;">
         <h3>Frontend</h3>
         <div style="display: flex;  flex-wrap: wrap; ">
-          <a><img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" width="100px"></a>
-          <a><img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" width="100px"></a>
-		  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="100px"></a>
-		  <a><img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" width="80px"></a>
-          <a><img src="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" width="80px"></a>
-          <a><img src="https://camo.githubusercontent.com/34be724565315ff2235ad3237bb21f3db805f559e94b878ce7cd722e4e358cac/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f736173732d6f726967696e616c2e737667" width="80px"></a>
-          <a><img src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" width="80px"></a>
+          <a><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="100px"></a>
+          <a><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="100px"></a>
+	  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="100px"></a>
+	  <a><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="80px"></a>
+          <a><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="80px"></a>
+          <a><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="80px"></a>
+          <a><img src="https://github.com/marwin1991/profile-technology-icons/blob/main/README.md" width="80px"></a>
           <a><img src="https://user-images.githubusercontent.com/900523/101620109-0e5e1f00-3a0c-11eb-8c40-b1d9a8bb3c4c.png" width="80px"></a>
         </div>
       </td>
